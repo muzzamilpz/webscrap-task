@@ -34,7 +34,7 @@ Steps
    ```
 3. Start the server:
    ```sh
-   npm run dev
+   npx ts-node index.ts
    ```
    The server will run on `http://localhost:3000`.
 
